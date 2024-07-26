@@ -1,0 +1,29 @@
+.commentContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 2px solid grey;
+  padding: 5px;
+  border-radius: 10px;
+}
+.controls {
+  color: blue;
+  font-size: 15px;
+}
+span {
+  margin-right: 4px;
+  cursor: pointer;
+}
+
+.details {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 5px;
+}
+
+.reply {
+  border: 1.5px solid olive;
+  padding: 5px;
+  border-radius: 7px;
+  margin-top: 5px;
+}
